@@ -1,0 +1,4 @@
+[info] Homepage rendered with consent banner visible.
+[info] Consent dismissed successfully.
+[info] Pricing route rendered without layout shift.
+[warn] Report route requires session-backed audit evidence for full hydration.
